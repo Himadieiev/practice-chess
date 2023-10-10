@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/practice-chess/static/js/main.8b86dff9.js",
+    "main.css": "/practice-chess/static/css/main.075c8d9f.css",
+    "main.js": "/practice-chess/static/js/main.2010c193.js",
     "index.html": "/practice-chess/index.html",
-    "main.8b86dff9.js.map": "/practice-chess/static/js/main.8b86dff9.js.map"
+    "main.075c8d9f.css.map": "/practice-chess/static/css/main.075c8d9f.css.map",
+    "main.2010c193.js.map": "/practice-chess/static/js/main.2010c193.js.map"
   },
   "entrypoints": [
-    "static/js/main.8b86dff9.js"
+    "static/css/main.075c8d9f.css",
+    "static/js/main.2010c193.js"
   ]
 }
